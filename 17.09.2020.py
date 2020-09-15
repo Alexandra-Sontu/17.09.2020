@@ -1,6 +1,6 @@
 print("Sontu Alexandra")
 print("11.01.2005")
-print("Eleva in clasa 10 "D")
+print("Eleva in clasa a 10''D'')
 print("Republica Moldova,municipiul Balti")
 print("alexandrasontu@gmail.com")
 print("078937110")
